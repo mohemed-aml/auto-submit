@@ -1,0 +1,52 @@
+[
+  {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "contact_no": "9876543210"
+  },
+  {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "contact_no": "9876543221"
+  },
+  {
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "contact_no": "9876543232"
+  },
+  {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "contact_no": "9876543243"
+  },
+  {
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "contact_no": "9876543254"
+  },
+  {
+      "name": "Eva Green",
+      "email": "eva.green@example.com",
+      "contact_no": "9876543265"
+  },
+  {
+      "name": "Frank White",
+      "email": "frank.white@example.com",
+      "contact_no": "9876543276"
+  },
+  {
+      "name": "Grace Hopper",
+      "email": "grace.hopper@example.com",
+      "contact_no": "9876543287"
+  },
+  {
+      "name": "Hannah Adams",
+      "email": "hannah.adams@example.com",
+      "contact_no": "9876543298"
+  },
+  {
+      "name": "Isaac Newton",
+      "email": "isaac.newton@example.com",
+      "contact_no": "9876543209"
+  }
+]
