@@ -1,17 +1,18 @@
-Check your chrome version from: chrome://settings/help 
-Download the chromedriver for you chrome version from: https://www.chromedriverdownload.com/en
+1. Check your chrome version from: chrome://settings/help 
 
-clone the repo into your local system: 
+2. Download the chromedriver for you chrome version from: https://www.chromedriverdownload.com/en
+
+3. Clone the repo into your local system: 
   ```bash
   git clone https://github.com/mohemed-aml/auto-submit.git
   ```
 
-install the selenium which is a required dependancy:
+4. Install the selenium which is a required dependancy:
   ```bash
   pip install selenium
   ```
 
-replace the chromedriver and data files and run the script:
+5. Replace the chromedriver and data files and run the script:
  ```bash
 cd path/to/auto-submit
 python auto-submit.py
